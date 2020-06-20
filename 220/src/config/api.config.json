@@ -1,0 +1,17 @@
+{"BASE_URL": "http://localhost:3001/api",
+"ENDPOINTS":{
+    "login": "/login",
+    "mahasiswa": "/mahasiswa",
+    "m_user": "/m_user",
+    "provinsi": "/provinsi",
+    "kota": "/kota",
+    "x_sertifikasi": "/x_sertifikasi",
+    "po_detail": "/po_detail",
+    "po":"/po",
+    "barang":"/barang"
+},
+"ls": {
+    "username": "",
+    "token": ""
+}
+}

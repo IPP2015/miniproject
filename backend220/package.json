@@ -1,0 +1,29 @@
+{
+  "name": "backend220",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "bcryptjs": "^2.4.3",
+    "cypress": "^4.3.0",
+    "experss": "0.0.1-security",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.3.1",
+    "nodemon": "^1.19.4",
+    "package.json": "^2.0.1",
+    "pg": "^7.18.2",
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
